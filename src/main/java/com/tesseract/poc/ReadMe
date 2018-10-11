@@ -1,0 +1,8 @@
+To run in linux, run these commands at first
+
+
+sudo apt-get install tesseract-ocr
+
+cd <dir-containg-image>
+
+tesseract <image-name.ext> <output-text-fine-name>

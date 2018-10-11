@@ -1,0 +1,8 @@
+
+*.prefs
+.classpath
+.project
+*.class
+*.MF
+target/classes/META-INF/maven/com.programs/nk-git-poc/pom.properties
+.settings/org.eclipse.wst.common.project.facet.core.xml
